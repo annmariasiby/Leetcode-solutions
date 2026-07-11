@@ -16,6 +16,7 @@ My Python solutions to LeetCode problems with clean code.
 | [0136-single-number](https://github.com/annmariasiby/Leetcode-solutions/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/annmariasiby/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0739-daily-temperatures](https://github.com/annmariasiby/Leetcode-solutions/tree/master/0739-daily-temperatures) |
+| [0932-beautiful-array](https://github.com/annmariasiby/Leetcode-solutions/tree/master/0932-beautiful-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -28,6 +29,7 @@ My Python solutions to LeetCode problems with clean code.
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/annmariasiby/Leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0932-beautiful-array](https://github.com/annmariasiby/Leetcode-solutions/tree/master/0932-beautiful-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -67,4 +69,5 @@ My Python solutions to LeetCode problems with clean code.
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/annmariasiby/Leetcode-solutions/tree/master/0189-rotate-array) |
+| [0932-beautiful-array](https://github.com/annmariasiby/Leetcode-solutions/tree/master/0932-beautiful-array) |
 <!---LeetCode Topics End-->
