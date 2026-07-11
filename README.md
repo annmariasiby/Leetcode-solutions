@@ -15,6 +15,7 @@ My Python solutions to LeetCode problems with clean code.
 | [0088-merge-sorted-array](https://github.com/annmariasiby/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/annmariasiby/Leetcode-solutions/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/annmariasiby/Leetcode-solutions/tree/master/0189-rotate-array) |
+| [0739-daily-temperatures](https://github.com/annmariasiby/Leetcode-solutions/tree/master/0739-daily-temperatures) |
 ## Hash Table
 |  |
 | ------- |
@@ -48,10 +49,12 @@ My Python solutions to LeetCode problems with clean code.
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/annmariasiby/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/annmariasiby/Leetcode-solutions/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/annmariasiby/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/annmariasiby/Leetcode-solutions/tree/master/0739-daily-temperatures) |
 ## Sorting
 |  |
 | ------- |
