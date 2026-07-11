@@ -14,6 +14,7 @@ My Python solutions to LeetCode problems with clean code.
 | [0042-trapping-rain-water](https://github.com/annmariasiby/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/annmariasiby/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/annmariasiby/Leetcode-solutions/tree/master/0136-single-number) |
+| [0189-rotate-array](https://github.com/annmariasiby/Leetcode-solutions/tree/master/0189-rotate-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -34,6 +35,7 @@ My Python solutions to LeetCode problems with clean code.
 | [0027-remove-element](https://github.com/annmariasiby/Leetcode-solutions/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/annmariasiby/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/annmariasiby/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/annmariasiby/Leetcode-solutions/tree/master/0189-rotate-array) |
 ## Greedy
 |  |
 | ------- |
@@ -58,4 +60,8 @@ My Python solutions to LeetCode problems with clean code.
 |  |
 | ------- |
 | [0136-single-number](https://github.com/annmariasiby/Leetcode-solutions/tree/master/0136-single-number) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/annmariasiby/Leetcode-solutions/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
