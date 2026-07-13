@@ -12,6 +12,7 @@ My Python solutions to LeetCode problems with clean code.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/annmariasiby/Leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/annmariasiby/Leetcode-solutions/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/annmariasiby/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0066-plus-one](https://github.com/annmariasiby/Leetcode-solutions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/annmariasiby/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/annmariasiby/Leetcode-solutions/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/annmariasiby/Leetcode-solutions/tree/master/0189-rotate-array) |
@@ -69,6 +70,7 @@ My Python solutions to LeetCode problems with clean code.
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/annmariasiby/Leetcode-solutions/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/annmariasiby/Leetcode-solutions/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/annmariasiby/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0932-beautiful-array](https://github.com/annmariasiby/Leetcode-solutions/tree/master/0932-beautiful-array) |
 <!---LeetCode Topics End-->
