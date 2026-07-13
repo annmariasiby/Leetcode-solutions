@@ -68,6 +68,7 @@ My Python solutions to LeetCode problems with clean code.
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/annmariasiby/Leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/annmariasiby/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0932-beautiful-array](https://github.com/annmariasiby/Leetcode-solutions/tree/master/0932-beautiful-array) |
 <!---LeetCode Topics End-->
