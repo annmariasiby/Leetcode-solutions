@@ -18,6 +18,7 @@ My Python solutions to LeetCode problems with clean code.
 | [0189-rotate-array](https://github.com/annmariasiby/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0739-daily-temperatures](https://github.com/annmariasiby/Leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0932-beautiful-array](https://github.com/annmariasiby/Leetcode-solutions/tree/master/0932-beautiful-array) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/annmariasiby/Leetcode-solutions/tree/master/1848-minimum-distance-to-the-target-element) |
 ## Hash Table
 |  |
 | ------- |
