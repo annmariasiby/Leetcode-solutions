@@ -15,6 +15,7 @@ My Python solutions to LeetCode problems with clean code.
 | [0066-plus-one](https://github.com/annmariasiby/Leetcode-solutions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/annmariasiby/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/annmariasiby/Leetcode-solutions/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/annmariasiby/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/annmariasiby/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/annmariasiby/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/annmariasiby/Leetcode-solutions/tree/master/0268-missing-number) |
@@ -28,6 +29,7 @@ My Python solutions to LeetCode problems with clean code.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/annmariasiby/Leetcode-solutions/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/annmariasiby/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/annmariasiby/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/annmariasiby/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/annmariasiby/Leetcode-solutions/tree/master/0268-missing-number) |
@@ -42,6 +44,7 @@ My Python solutions to LeetCode problems with clean code.
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/annmariasiby/Leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/annmariasiby/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0932-beautiful-array](https://github.com/annmariasiby/Leetcode-solutions/tree/master/0932-beautiful-array) |
 ## Two Pointers
 |  |
@@ -75,6 +78,7 @@ My Python solutions to LeetCode problems with clean code.
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/annmariasiby/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/annmariasiby/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/annmariasiby/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/annmariasiby/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/annmariasiby/Leetcode-solutions/tree/master/0268-missing-number) |
@@ -104,4 +108,8 @@ My Python solutions to LeetCode problems with clean code.
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/annmariasiby/Leetcode-solutions/tree/master/0242-valid-anagram) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/annmariasiby/Leetcode-solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
