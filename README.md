@@ -20,6 +20,7 @@ My Python solutions to LeetCode problems with clean code.
 | [0217-contains-duplicate](https://github.com/annmariasiby/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/annmariasiby/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/annmariasiby/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0724-find-pivot-index](https://github.com/annmariasiby/Leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/annmariasiby/Leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0932-beautiful-array](https://github.com/annmariasiby/Leetcode-solutions/tree/master/0932-beautiful-array) |
 | [1480-running-sum-of-1d-array](https://github.com/annmariasiby/Leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
@@ -99,6 +100,7 @@ My Python solutions to LeetCode problems with clean code.
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/annmariasiby/Leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/annmariasiby/Leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 ## Simulation
 |  |
