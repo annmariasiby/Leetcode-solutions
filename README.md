@@ -27,6 +27,7 @@ My Python solutions to LeetCode problems with clean code.
 | ------- |
 | [0001-two-sum](https://github.com/annmariasiby/Leetcode-solutions/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/annmariasiby/Leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/annmariasiby/Leetcode-solutions/tree/master/0242-valid-anagram) |
 ## Binary Search
 |  |
 | ------- |
@@ -68,6 +69,7 @@ My Python solutions to LeetCode problems with clean code.
 | ------- |
 | [0088-merge-sorted-array](https://github.com/annmariasiby/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/annmariasiby/Leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/annmariasiby/Leetcode-solutions/tree/master/0242-valid-anagram) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -87,4 +89,8 @@ My Python solutions to LeetCode problems with clean code.
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/annmariasiby/Leetcode-solutions/tree/master/1929-concatenation-of-array) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/annmariasiby/Leetcode-solutions/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
