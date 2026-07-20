@@ -18,6 +18,7 @@ My Python solutions to LeetCode problems with clean code.
 | [0189-rotate-array](https://github.com/annmariasiby/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0739-daily-temperatures](https://github.com/annmariasiby/Leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0932-beautiful-array](https://github.com/annmariasiby/Leetcode-solutions/tree/master/0932-beautiful-array) |
+| [1480-running-sum-of-1d-array](https://github.com/annmariasiby/Leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/annmariasiby/Leetcode-solutions/tree/master/1848-minimum-distance-to-the-target-element) |
 ## Hash Table
 |  |
@@ -74,4 +75,8 @@ My Python solutions to LeetCode problems with clean code.
 | [0066-plus-one](https://github.com/annmariasiby/Leetcode-solutions/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/annmariasiby/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0932-beautiful-array](https://github.com/annmariasiby/Leetcode-solutions/tree/master/0932-beautiful-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/annmariasiby/Leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
