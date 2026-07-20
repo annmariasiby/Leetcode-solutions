@@ -16,6 +16,7 @@ My Python solutions to LeetCode problems with clean code.
 | [0088-merge-sorted-array](https://github.com/annmariasiby/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/annmariasiby/Leetcode-solutions/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/annmariasiby/Leetcode-solutions/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/annmariasiby/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0739-daily-temperatures](https://github.com/annmariasiby/Leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0932-beautiful-array](https://github.com/annmariasiby/Leetcode-solutions/tree/master/0932-beautiful-array) |
 | [1480-running-sum-of-1d-array](https://github.com/annmariasiby/Leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
@@ -25,6 +26,7 @@ My Python solutions to LeetCode problems with clean code.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/annmariasiby/Leetcode-solutions/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/annmariasiby/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 ## Binary Search
 |  |
 | ------- |
@@ -65,6 +67,7 @@ My Python solutions to LeetCode problems with clean code.
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/annmariasiby/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/annmariasiby/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 ## Bit Manipulation
 |  |
 | ------- |
