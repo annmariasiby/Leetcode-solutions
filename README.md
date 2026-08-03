@@ -23,6 +23,7 @@ My Python solutions to LeetCode problems with clean code.
 | [0189-rotate-array](https://github.com/annmariasiby/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/annmariasiby/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/annmariasiby/Leetcode-solutions/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/annmariasiby/Leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/annmariasiby/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/annmariasiby/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0724-find-pivot-index](https://github.com/annmariasiby/Leetcode-solutions/tree/master/0724-find-pivot-index) |
@@ -68,6 +69,7 @@ My Python solutions to LeetCode problems with clean code.
 | [0088-merge-sorted-array](https://github.com/annmariasiby/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/annmariasiby/Leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/annmariasiby/Leetcode-solutions/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/annmariasiby/Leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/annmariasiby/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Greedy
 |  |
