@@ -11,7 +11,7 @@ class Solution(object):
             while(j<k):
                 tnums=nums[i]+nums[k]+nums[j]
                 if(tnums==0):
-                    answer.append([nums[i],nums[k],nums[j]])
+                    answer.append([nums[i],nums[j],nums[k]])
                     j=j+1
                     k=k-1
                     while(j<k and (nums[j]==nums[j-1])):
