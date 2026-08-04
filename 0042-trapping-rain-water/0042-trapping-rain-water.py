@@ -1,28 +1,16 @@
-class Solution:
-    def trap(self, height: List[int]) -> int:
-       heightSize=len(height)
-       l=[0]*heightSize
-       r=[0]*heightSize
-       n=0
-       m=0
-       ans=[0]*heightSize
-       water=0
-       if (heightSize<3):
-        return 0
-       for i in range(heightSize):
-        if(m<height[i]):
-            m=height[i]
-        l[i]=m
-       for i in range(heightSize-1,-1,-1):
-        if(n<height[i]):
-            n=height[i]
-        r[i]=n
-       for i in range(heightSize):
-           ans[i]=min(l[i],r[i])
-       for i in range(heightSize):
-           if(ans[i]>height[i]):
-                water+=ans[i]-height[i]
-           else:
-                water+=height[i]-ans[i]
-        
-       return water
+class Solution(object):
+    def trap(self, height):
+       
+        ans=0
+        n=len(height)
+        lmax=[0]*n
+        rmax=[0]*n
+        lmax[0]=height[0]
+        rmax[n-1]=height[n-1]
+        for i in range(1,n):
+            lmax[i]=max(lmax[i-1],height[i])
+        for i in range(n-2,-1,-1):
+            rmax[i]=max(rmax[i+1],height[i])
+        for i in range(n):
+            ans=ans+min(lmax[i],rmax[i])-height[i]
+        return ans
