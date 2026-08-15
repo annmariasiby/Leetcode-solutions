@@ -29,6 +29,7 @@ My Python solutions to LeetCode problems with clean code.
 | [0724-find-pivot-index](https://github.com/annmariasiby/Leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/annmariasiby/Leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0932-beautiful-array](https://github.com/annmariasiby/Leetcode-solutions/tree/master/0932-beautiful-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/annmariasiby/Leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/annmariasiby/Leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/annmariasiby/Leetcode-solutions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1929-concatenation-of-array](https://github.com/annmariasiby/Leetcode-solutions/tree/master/1929-concatenation-of-array) |
@@ -71,6 +72,7 @@ My Python solutions to LeetCode problems with clean code.
 | [0189-rotate-array](https://github.com/annmariasiby/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/annmariasiby/Leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/annmariasiby/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0977-squares-of-a-sorted-array](https://github.com/annmariasiby/Leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Greedy
 |  |
 | ------- |
@@ -102,6 +104,7 @@ My Python solutions to LeetCode problems with clean code.
 | [0268-missing-number](https://github.com/annmariasiby/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/annmariasiby/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/annmariasiby/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0977-squares-of-a-sorted-array](https://github.com/annmariasiby/Leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Bit Manipulation
 |  |
 | ------- |
