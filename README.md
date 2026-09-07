@@ -17,6 +17,7 @@ My Python solutions to LeetCode problems with clean code.
 | [0066-plus-one](https://github.com/annmariasiby/Leetcode-solutions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/annmariasiby/Leetcode-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/annmariasiby/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/annmariasiby/Leetcode-solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/annmariasiby/Leetcode-solutions/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/annmariasiby/Leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/annmariasiby/Leetcode-solutions/tree/master/0169-majority-element) |
@@ -82,6 +83,7 @@ My Python solutions to LeetCode problems with clean code.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/annmariasiby/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/annmariasiby/Leetcode-solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
